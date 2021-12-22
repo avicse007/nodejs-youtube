@@ -1,0 +1,11 @@
+{
+  "name": "learn-node-from-you-tube",
+  "version": "1.0.0",
+  "description": "Learning node via free code youtube video",
+  "main": "event_emitter_learn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
